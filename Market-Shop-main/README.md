@@ -1,4 +1,4 @@
-# Market-Shop Related Services for IITP
+# Market-Shop Related Services System for College
 * Approving/denying market shop registration requests
 * Current shop details of different areas of the campus 
 * Details of shop keepers and their security pass validity 
